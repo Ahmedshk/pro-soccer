@@ -1786,6 +1786,7 @@ a strong,
     margin: 0;
     text-transform: uppercase;
     display: flex;
+    justify-content: center !important;
 }
 a .subheading,
 a:hover .subheading {
